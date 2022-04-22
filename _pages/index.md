@@ -12,6 +12,9 @@ permalink: /
 #### [難易度について](/#chapter2)
 #### [エポキシレジンについて](/#chapter3)
 #### [UVレジンについて](/#chapter4)
+
+![image](https://www.photolibrary.jp/mhd3/img635/450-20181001145956262951.jpg)
+
 <a id="chapter1"></a>
 ## レジンの種類について
 　レジンにはエポキシレジンとＵＶレジンの二種類があります。
